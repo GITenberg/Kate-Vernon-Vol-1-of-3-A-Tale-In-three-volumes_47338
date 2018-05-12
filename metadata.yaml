@@ -1,4 +1,8 @@
 _repo: Kate-Vernon-Vol-1-of-3-A-Tale-In-three-volumes_47338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47338-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, Mrs.
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '8016'
     url: http://www.gutenberg.org/2009/agents/8016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47338#Kate-Vernon-Vol-1-of-3-A-Tale-In-three-volumes
 gutenberg_issued: '2014-11-13'
 gutenberg_type: Text
 identifiers:
